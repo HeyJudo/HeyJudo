@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HeyJudo
-- 👀 I’m interested in data science, web development, and cloud computing 
-- 🌱 I’m currently learning the language of C, AI, and statistics. 
+- 👀 I’m interested in data science, web development, and data engineering. 
+- 🌱 I’m currently learning Java & React
 - 💞️ I’m looking to collaborate on different projects 
 - 📫 How to reach me: Gmail: jude.sangalang09@gmail.com
 - 😄 Pronouns: He/Him
